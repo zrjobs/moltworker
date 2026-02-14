@@ -45,7 +45,7 @@
     "bindings": [
       {
         "class_name": "Sandbox",
-        "name": "Sandbox",
+        "name": "OPENCLAW_SANDBOX",
       },
     ],
   },
