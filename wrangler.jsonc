@@ -46,6 +46,7 @@
       {
         "class_name": "Sandbox",
         "name": "Sandbox",
+        "containers": "true"
       },
     ],
   },
